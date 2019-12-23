@@ -1,0 +1,26 @@
+.titles{
+    margin: 10px 0px 20px 10px;
+    border-radius: 8px;
+    width: 80px;
+}
+.btn{
+    margin: 0px 0px 0px 5px
+}
+.lists{
+    margin:10px 0px 0px 10px
+}
+  .todo-list-title.important {
+    color: tomato;
+    font-weight: bold;
+  }
+  .todo-list-title.done {
+    color: #646464;
+    font-weight: normal;
+    text-decoration: line-through;
+  }
+  .todo-list-title:hover{
+    cursor: pointer;
+  }
+  .divBtn{
+      width:100px
+  }

@@ -1,0 +1,13 @@
+.data {
+    margin:30px 0px 20px 0px
+}
+.main {
+    margin: 0px 0px 0px 450px;
+    background: pink;
+    width:370px;
+    height: 470px;
+    border-radius: 20px;
+}
+.move{
+    margin:20px
+}
